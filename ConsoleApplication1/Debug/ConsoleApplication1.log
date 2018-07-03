@@ -1,0 +1,6 @@
+﻿  Dictionary.cpp
+c:\users\jbhifi\desktop\consoleapplication1\consoleapplication1\dictionary.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\jbhifi\desktop\consoleapplication1\consoleapplication1\dictionary.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\jbhifi\desktop\consoleapplication1\consoleapplication1\dictionary.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\jbhifi\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\jbhifi\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
